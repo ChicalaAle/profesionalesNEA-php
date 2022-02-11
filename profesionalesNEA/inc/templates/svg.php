@@ -1,0 +1,1 @@
+<div style="width: 100%; height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-2.54,33.05 C149.99,150.00 204.57,-6.41 509.87,56.73 L509.87,161.34 L0.00,150.00 Z" style="stroke: none; fill: #73FCC8;"></path></svg> </div>
